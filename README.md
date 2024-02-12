@@ -5,7 +5,7 @@
 # osTicket Post-Installation Setup Guide
 
 ## Introduction
-This guide outlines the steps required to configure osTicket, an open-source help desk ticketing system, after installation. It builds upon the prerequisites and installation steps covered in the previous lab.
+This guide outlines the steps required to configure osTicket, an open-source help desk ticketing system, after installation. It builds upon the prerequisites and installation steps covered in the [previous lab](https://github.com/CaseyHrt/osticket-prereqs).
 
 ## Environment and Tools
 - Microsoft Azure (Virtual Machines/Compute)
